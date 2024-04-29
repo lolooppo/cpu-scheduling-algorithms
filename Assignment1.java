@@ -1,6 +1,6 @@
 /**********************************************************************************************************************************************************************************
  Purpose:
- An OS interfaces with a user through CLI, A CLI is a software module capable of interpreting textual commands coming either from the user's keyboard or from a script file.
+ An OS interfaces with a user through CLI, A CLI is a software module capable of interpreting textual commands coming from the user's keyboard .
 
  Command Lines:
  1) args
